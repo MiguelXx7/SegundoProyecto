@@ -37,7 +37,7 @@ El contenedor personalizado **Fedora Central** fue diseñado como nodo maestro p
 
 ## 📁 Repositorio y Publicaciones
 
-- 📦 Imagen Docker Fedora Central: [Docker Hub](https://hub.docker.com/r/tu_usuario/fedora_central)
+- 📦 Imagen Docker Fedora Central: [Docker Hub]: https://hub.docker.com/repository/docker/jimenezz/fedora_central/tags/latest/sha256-c7f1c23b632e40ea790881a92367b03be4902aca3abd7674860d66e6449b017c
 - 📁 Repositorio con documentación y evidencias: [GitHub](https://github.com/tu_usuario/proyecto-monitor-vm-vs-docker)
 
 ---
